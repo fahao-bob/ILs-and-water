@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.font_manager as font_manager
 from matplotlib import rcParams
 from math import log
 from scipy import stats
