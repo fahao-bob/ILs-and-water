@@ -26,7 +26,7 @@ for i in range(data.shape[0]):
 
 list_out = np.array(negative)
 
-#print(list_out)
+
 
 np.savetxt('model_negative.csv',list_out,header='smiles logP',delimiter=',',fmt='%s')
 
