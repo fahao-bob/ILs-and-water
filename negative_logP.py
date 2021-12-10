@@ -1,6 +1,5 @@
 import numpy as np
 from matplotlib import rcParams
-from math import log
 from scipy import stats
 import re
 rcParams['mathtext.default'] = 'regular'
